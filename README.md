@@ -28,9 +28,9 @@ A simple Java-based application that helps users track daily expenses, categoriz
 - Budget warning when exceeded
 - Expense summary by category
 
-## 📂 Project Structure
+## Project Structure
 src/ → Java source files  
 data/ → Stores expense data  
 
-## 👨‍💻 Author
+## Author
 Yash Mishra
